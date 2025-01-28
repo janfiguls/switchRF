@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Current DAC")(type "KiCad")(uri "C:/Users/EMC BCN PC2/Documents/KiCad/LibJan/DS4432U_.kicad_sym")(options "")(descr ""))
+  (lib (name "Voltage ADC")(type "KiCad")(uri "C:/Users/EMC BCN PC2/Desktop/Jan/KiCad/LIB/MCP3021.kicad_sym")(options "")(descr ""))
+)
